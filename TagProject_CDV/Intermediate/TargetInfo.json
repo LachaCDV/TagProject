@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TagProject_CDV",
+			"Path": "..\\Source\\TagProject_CDV.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TagProject_CDVEditor",
+			"Path": "..\\Source\\TagProject_CDVEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
