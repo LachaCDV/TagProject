@@ -1,8 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\lacho\\wkspaces\\Project VR Training\\TagProject_CDV\\Source\\TagProject_CDV\\TagProject_CDV.Build.cs",
-		"C:\\Users\\lacho\\wkspaces\\Project VR Training\\TagProject_CDV\\Source\\TagProject_CDV.Target.cs",
-		"C:\\Users\\lacho\\wkspaces\\Project VR Training\\TagProject_CDV\\Source\\TagProject_CDVEditor.Target.cs"
+		"C:\\Users\\mateo\\TagProject\\TagProject_CDV\\Source\\TagProject_CDV\\TagProject_CDV.Build.cs",
+		"C:\\Users\\mateo\\TagProject\\TagProject_CDV\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\mateo\\TagProject\\TagProject_CDV\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\mateo\\TagProject\\TagProject_CDV\\Source\\TagProject_CDV.Target.cs",
+		"C:\\Users\\mateo\\TagProject\\TagProject_CDV\\Source\\TagProject_CDVEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
