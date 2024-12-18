@@ -1,18 +1,18 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\mateo\\tagproject\\tagproject_cdv\\source\\tagproject_cdv\\tagproject_cdvgamemode.cpp",
+        "Source": "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\source\\tagproject_cdv\\tagproject_cdvgamemode.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\mateo\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\tagproject_cdveditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\tagproject_cdveditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\mateo\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tagproject_cdv\\definitions.tagproject_cdv.h",
-            "c:\\users\\mateo\\tagproject\\tagproject_cdv\\source\\tagproject_cdv\\tagproject_cdvgamemode.h",
+            "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tagproject_cdv\\definitions.tagproject_cdv.h",
+            "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\source\\tagproject_cdv\\tagproject_cdvgamemode.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\users\\mateo\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\unrealeditor\\inc\\tagproject_cdv\\uht\\tagproject_cdvgamemode.generated.h",
-            "c:\\users\\mateo\\tagproject\\tagproject_cdv\\source\\tagproject_cdv\\tagproject_cdvcharacter.h",
+            "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\unrealeditor\\inc\\tagproject_cdv\\uht\\tagproject_cdvgamemode.generated.h",
+            "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\source\\tagproject_cdv\\tagproject_cdvcharacter.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
@@ -21,7 +21,7 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "c:\\users\\mateo\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\unrealeditor\\inc\\tagproject_cdv\\uht\\tagproject_cdvcharacter.generated.h"
+            "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\unrealeditor\\inc\\tagproject_cdv\\uht\\tagproject_cdvcharacter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

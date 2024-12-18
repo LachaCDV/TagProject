@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\mateo\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\unrealeditor\\inc\\tagproject_cdv\\uht\\tagproject_cdv.init.gen.cpp",
+        "Source": "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\unrealeditor\\inc\\tagproject_cdv\\uht\\tagproject_cdv.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\mateo\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\tagproject_cdveditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\tagproject_cdveditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\mateo\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tagproject_cdv\\definitions.tagproject_cdv.h"
+            "d:\\gamedev\\ue projects\\fork\\tagproject\\tagproject_cdv\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tagproject_cdv\\definitions.tagproject_cdv.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
